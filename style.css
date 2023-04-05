@@ -1,0 +1,51 @@
+html {
+  background: url("img/rrr.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  background-color: rgba(255, 174, 0, 0.452);
+  border-radius: 1000px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 100px 150px 160px;
+  font-family: monospace;
+  font-size: 15px;
+}
+h1,
+h2 {
+  font-family: monospace;
+  letter-spacing: 5px;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+a {
+  color: rgb(0, 15, 97);
+}
+a:hover {
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+.feedback {
+  color: rgb(133, 0, 0);
+  font-weight: bold;
+}
+
+button {
+  font-family: monospace;
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  background-color: black;
+  border-radius: 10px;
+}
+
+input {
+  background-color: rgb(41, 41, 41);
+  color: white;
+}
